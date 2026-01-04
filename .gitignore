@@ -1,0 +1,10 @@
+# PDF files
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
